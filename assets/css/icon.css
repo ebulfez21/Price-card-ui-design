@@ -1,0 +1,25 @@
+.icon {
+  width: 25.34px;
+  height: 25.34px;
+  display:flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+background-position: center;
+  background-size: contain;
+  align-items: center;
+  justify-content: center;
+float: left;
+}
+.sorch {
+  background-image: url(../icon/sorch.svg);
+ 
+}
+.ok{
+    background-image: url(../icon/ok.svg);
+    background-color: #B3C7E3;
+    border-radius: 20px;
+}
+.lg{
+  width: 28px;
+  height: 28px;
+}
